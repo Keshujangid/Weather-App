@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+  
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.69664703"
+     inkscape:cx="396.90114"
+     inkscape:cy="560.54212"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="a"
+       x1="23.61"
+       x2="37.27"
+       y1="21.85"
+       y2="45.52"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#3392d6"
+         id="stop9" />
+      <stop
+         offset=".45"
+         stop-color="#3392d6"
+         id="stop11" />
+      <stop
+         offset="1"
+         stop-color="#2477b2"
+         id="stop13" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g32"
+       transform="matrix(10.233772,0,0,9.647397,-222.45364,-158.97872)">
+      <path
+         fill="url(#a)"
+         stroke="#2885c7"
+         stroke-miterlimit="10"
+         stroke-width="0.5"
+         d="M 32,17 C 25.91,26 22,31.62 22,37.09 a 10,10 0 0 0 20,0 C 42,31.62 38.09,26 32,17 Z"
+         id="path18"
+         style="fill:url(#a)" />
+      <path
+         fill="#ffffff"
+         d="m 26.24,30.19 a 3,3 0 0 1 2.12,-0.69 3,3 0 0 1 2.12,0.69 2.51,2.51 0 0 1 0.74,1.92 v 1.24 a 2.48,2.48 0 0 1 -0.74,1.9 3.05,3.05 0 0 1 -2.12,0.68 3,3 0 0 1 -2.12,-0.68 2.48,2.48 0 0 1 -0.74,-1.9 v -1.24 a 2.51,2.51 0 0 1 0.74,-1.92 z m 11,-0.23 a 0.42,0.42 0 0 1 -0.08,0.4 L 29,41.69 a 1.37,1.37 0 0 1 -0.44,0.44 1.87,1.87 0 0 1 -0.72,0.09 h -0.67 c -0.2,0 -0.33,-0.06 -0.38,-0.18 -0.05,-0.12 0,-0.25 0.09,-0.42 l 8.2,-11.35 a 1,1 0 0 1 0.41,-0.41 2,2 0 0 1 0.67,-0.08 h 0.76 q 0.27,0 0.34,0.22 z m -8.9,1.17 c -0.79,0 -1.19,0.36 -1.19,1.07 v 1 c 0,0.71 0.4,1.07 1.19,1.07 0.79,0 1.19,-0.36 1.19,-1.07 v -1 c 0.02,-0.71 -0.38,-1.07 -1.17,-1.07 z m 5.16,5.63 a 3,3 0 0 1 2.12,-0.69 3,3 0 0 1 2.12,0.69 2.51,2.51 0 0 1 0.74,1.92 v 1.24 a 2.48,2.48 0 0 1 -0.74,1.9 3,3 0 0 1 -2.12,0.68 3.05,3.05 0 0 1 -2.12,-0.68 2.48,2.48 0 0 1 -0.74,-1.9 v -1.24 a 2.51,2.51 0 0 1 0.76,-1.92 z m 2.12,0.94 c -0.79,0 -1.19,0.35 -1.19,1.07 v 1 c 0,0.73 0.4,1.09 1.19,1.09 0.79,0 1.19,-0.36 1.19,-1.09 v -1 C 36.83,38.05 36.43,37.7 35.64,37.7 Z"
+         id="path20" />
+    </g>
+  </g>
+</svg>
