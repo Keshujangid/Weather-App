@@ -17,7 +17,7 @@ export async function displayWeather(locationName) {
 
 
  function displayWeatherData(data) {
-    console.log(data);
+    
 
 
     const location = document.querySelector('.location');

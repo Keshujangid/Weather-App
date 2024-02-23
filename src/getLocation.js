@@ -13,7 +13,6 @@ export function getLocationName() {
 
 function getLocation(form) {
     const inputValue = document.querySelector('.search-bar').value;
-    console.log(inputValue);
     form.addEventListener('submit', (e) => { e.preventDefault(); });
     document.querySelector('.search-bar').value = '';
     return inputValue;
